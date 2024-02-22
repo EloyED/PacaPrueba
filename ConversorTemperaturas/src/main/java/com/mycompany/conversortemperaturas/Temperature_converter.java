@@ -20,6 +20,6 @@ public class Temperature_converter {
 			float value3 = (float) (value2*(5)/9);
 			System.out.print("Your conversion is here.. "+value3+"�C");
 		}
-	System.out.println("\n\tThank You!!..!");
+	System.out.println("\n\tThank You!!w..!");
 	}
-}eeeeeeeeeeeeeeeeeeeeeee
+}
